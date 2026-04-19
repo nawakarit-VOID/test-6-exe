@@ -1,19 +1,19 @@
 1 VERSIONINFO
-FILEVERSION 1,1,0,0
-PRODUCTVERSION 1,1,0,0
+FILEVERSION 5,9,0,0
+PRODUCTVERSION 5,9,0,0
 BEGIN
   BLOCK "StringFileInfo"
   BEGIN
     BLOCK "040904E4"
     BEGIN
       VALUE "CompanyName", "Nawakarit"
-      VALUE "FileDescription", "ipdf"
-      VALUE "FileVersion", "1.1.0"
+      VALUE "FileDescription", "pomodoro"
+      VALUE "FileVersion", "5.9.0"
       VALUE "InternalName", "ipdf.exe"
-      VALUE "OriginalFilename", "ipdf.exe"
-      VALUE "ProductName", "ipdf"
-      VALUE "LegalCopyright", "© 2026 Nawakarit"
-      VALUE "ProductVersion", "1.1.0"
+      VALUE "OriginalFilename", "pomodoro.exe"
+      VALUE "ProductName", "pomodoro"
+      VALUE "LegalCopyright", "© 2026 Nawakarit. All rights reserved."
+      VALUE "ProductVersion", "5.9.0"
     END
   END
 
